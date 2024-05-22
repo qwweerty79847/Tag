@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tag</string>
+    <string name="restart_tag">Играть снова</string>
+    <string name="win_tag">Вы победили!</string>
+    <string name="time_tag">Время: </string>
+    <string name="task_tag">Переставляйте плитки так, чтобы они оказались по порядку</string>
+    <string name="exit_tag">Выход</string>
+</resources>
